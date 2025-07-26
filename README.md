@@ -6,12 +6,12 @@ Este projeto realiza testes automatizados na API REST do [banco-api](https://git
 
 ## Stack utilizada
 
--**Linguagem:** JavaScript (Node.js)
--**Framework de testes:** [Mocha](https://mochajs.org/)
--**Biblioteca de requisições HTTP:** [Supertest](https://www.npmjs.com/package/supertest)
--**Biblioteca de asserções:** [Chai](https://www.chaijs.com/)
--**Relatórios de testes:** [Mochawesome](https://github.com/adamgruber/mochawesome)
--**Gerenciamento de variáveis de ambiente:** [dotenv](https://github.com/motdotla/dotenv)
+- **Linguagem:** JavaScript (Node.js)
+- **Framework de testes:** [Mocha](https://mochajs.org/)
+- **Biblioteca de requisições HTTP:** [Supertest](https://www.npmjs.com/package/supertest)
+- **Biblioteca de asserções:** [Chai](https://www.chaijs.com/)
+- **Relatórios de testes:** [Mochawesome](https://github.com/adamgruber/mochawesome)
+- **Gerenciamento de variáveis de ambiente:** [dotenv](https://github.com/motdotla/dotenv)
 
 ## Estrutura de diretórios
 
