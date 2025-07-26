@@ -54,7 +54,7 @@ npm test
 Geração automática do relatório HTML:
 
 - Após executar `npm test`, o relatório será gerado dentro da pasta `mochawesome-report/`.
-- 
+ 
 Sugestão: para executar os testes e abrir o relatório HTML automaticamente, adicione um script no `package.json`:
 
 ```json
